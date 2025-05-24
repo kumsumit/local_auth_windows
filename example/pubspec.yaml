@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  local_auth_platform_interface:
+  local_auth_platform_interface: 
     git: https://github.com/kumsumit/local_auth_platform_interface.git
   local_auth_windows:
     # When depending on this package from a real application you should use:
